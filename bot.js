@@ -1,23 +1,12 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
-//▮
-//▮FORK AND DON'T FORGET TO GIVE A STAR
-//▮
-//▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
-//▮
-//▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
-//▮
+// ig: haikaludahvaksin 
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
-//┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃I WROTE THIS SCRIPT BY MYSELF THIS SCRIPT IS FOR EVERYONE DONT SELL IT
+
+
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
@@ -29,21 +18,21 @@ global.APIs = {
 }
 //global apikeys
 global.APIKeys = {
-	'https://zenzapi.xyz': '805a6c3fa9', //api keys from zenzi
+	'https://zenzapi.xyz': '805a6c ko3fa9', //api keys from zenzi
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['6287722357680',''] //owner number +62 877-2235-7680
+global.wame = ['6287722357680'] 
+global.pemilik = ['6287722357680'] //owner number +62 877-2235-7680
+global.premium = ['6287722357680'] //premium number +62 877-2235-7680
+global.pengguna = 'Haikal' //username
+global.footer = '@Haikaludahvaksin'
+global.botnma = '@Haikaludahvaksin' //bot name
+global.botname = '@Haikaludahvaksin'
+global.ownernma = 'Haikal' //owner name
+global.packname = '@haikaludahvaksin' //sticker package name
+global.author = '@haikaludahvaksin' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
